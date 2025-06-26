@@ -1,0 +1,1001 @@
+pregunta,respuesta_estudiante,respuesta_correcta,tipo_error,retroalimentacion
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Complete: 'You ___ my friend',You am my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She goes to school,She goes to school,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is under the table,The dog is under the table,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Complete: 'I ___ happy today',I are happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They am at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'The dog is under the table',The dog is in the table,The dog is under the table,error_preposición,Se usa 'under' para decir debajo de la mesa.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Complete: 'I ___ happy today',I am happy today,I am happy today,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'I ___ happy today',I is happy today,I am happy today,error_concordancia,Con 'I' se usa 'am': I am happy today.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'The dog is under the table',The dog is on the table,The dog is under the table,error_preposición,"Under significa debajo de, no on (encima)."
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Translate: 'She goes to school',She going to school,She goes to school,error_tiempo_verbal,"Usa el presente simple, no el continuo: She goes to school."
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Complete: 'You ___ my friend',You is my friend,You are my friend,error_concordancia,Con 'you' se usa 'are': You are my friend.
+Complete: 'You ___ my friend',You are my friend,You are my friend,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They are at home,They are at home,ninguno,¡Muy bien! Tu respuesta es correcta.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
+Translate: 'She goes to school',She go to school,She goes to school,error_tercera_persona,Recuerda que con he/she/it el verbo lleva -s: She goes to school.
+Fill in the blank: 'They ___ at home',They is at home,They are at home,error_concordancia,Con 'they' se usa 'are': They are at home.
