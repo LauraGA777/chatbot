@@ -39,6 +39,21 @@ def limpiar_texto(texto: str) -> str:
     texto = " ".join(texto.split())
     return texto
 
+@app.get("/questions")
+async def obtener_preguntas():
+    """
+    Endpoint para ver todas las preguntas disponibles en el dataset
+    """
+    try:
+        preguntas_unicas = df['pregunta'].unique().tolist()
+        return {
+            "total_preguntas": len(preguntas_unicas),
+            "preguntas_disponibles": preguntas_unicas[:10],  # Mostrar las primeras 10
+            "nota": "Se muestran las primeras 10 preguntas. Total disponible: " + str(len(preguntas_unicas))
+        }
+    except Exception as e:
+        return {"error": str(e)}
+
 @app.post("/evaluate")
 async def evaluar_respuesta(respuesta: RespuestaEstudiante):
     """
@@ -49,14 +64,20 @@ async def evaluar_respuesta(respuesta: RespuestaEstudiante):
         pregunta = limpiar_texto(respuesta.question)
         respuesta_estudiante = limpiar_texto(respuesta.answer)
         
+        # DEBUG: Mostrar qué se está buscando
+        print(f"Pregunta limpia: '{pregunta}'")
+        print(f"Respuesta limpia: '{respuesta_estudiante}'")
+        
         # Buscar la pregunta en el dataset
         pregunta_encontrada = df[df['pregunta'].apply(limpiar_texto) == pregunta]
+        
+        print(f"Preguntas encontradas: {len(pregunta_encontrada)}")
         
         if pregunta_encontrada.empty:
             return RespuestaAPI(
                 is_correct=False,
                 error_type="pregunta_no_encontrada",
-                feedback="Lo siento, esta pregunta no está en nuestra base de datos."
+                feedback="Esta pregunta no existe en nuestra base de datos. Por favor, utiliza las preguntas disponibles en el sistema."
             )
         
         # Verificar si la respuesta es correcta
